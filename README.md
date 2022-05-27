@@ -14,5 +14,6 @@ Liste des contributeurs:
 - MaximeMichaud
 - kevin carufel
 - Simon Renaud
+- Wenhua Liu
 
 
