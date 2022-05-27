@@ -16,3 +16,5 @@ Liste des contributeurs:
 - Simon Renaud
 - Wenhua Liu
 - Casio Willen Goncalves
+- Jean F. L
+
