@@ -15,5 +15,4 @@ Liste des contributeurs:
 - kevin carufel
 - Simon Renaud
 - Wenhua Liu
-
-
+- Casio Willen Goncalves
