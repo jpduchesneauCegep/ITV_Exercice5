@@ -18,3 +18,4 @@ Liste des contributeurs:
 - Casio Willen Goncalves en 27/05/2022
 - Jean F. L
 - Jonathan Audet
+- Guillaume "Barlu" Berube
