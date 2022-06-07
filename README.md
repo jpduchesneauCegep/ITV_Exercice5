@@ -19,3 +19,4 @@ Liste des contributeurs:
 - Jean F. L
 - Jonathan Audet
 - Guillaume "Barlu" Berube
+- Janier Morales Morejon
