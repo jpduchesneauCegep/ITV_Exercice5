@@ -20,3 +20,4 @@ Liste des contributeurs:
 - Jonathan Audet
 - Guillaume "Barlu" Berube
 - Janier Morales Morejon
+- Joel Dumoulin
