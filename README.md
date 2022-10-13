@@ -25,4 +25,5 @@ Liste des contributeurs:
 - David Nguyen
 - Raphael Clerin
 - Simon Quillaud
+- Loic Delas
 
