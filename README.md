@@ -23,3 +23,5 @@ Liste des contributeurs:
 - Joel Dumoulin
 - Olivier Pouliot
 - David Nguyen
+- Raphael Clerin
+
