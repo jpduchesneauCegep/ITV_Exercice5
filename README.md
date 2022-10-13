@@ -22,3 +22,4 @@ Liste des contributeurs:
 - Janier Morales Morejon
 - Joel Dumoulin
 - Olivier Pouliot
+- David Nguyen
