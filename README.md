@@ -24,4 +24,5 @@ Liste des contributeurs:
 - Olivier Pouliot
 - David Nguyen
 - Raphael Clerin
+- Simon Quillaud
 
