@@ -27,3 +27,5 @@ Liste des contributeurs:
 - Simon Quillaud
 - Loic Delas
 - Dominique Lebrun
+- Philippe Plamondon
+
