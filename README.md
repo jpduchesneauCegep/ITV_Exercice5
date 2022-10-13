@@ -26,4 +26,4 @@ Liste des contributeurs:
 - Raphael Clerin
 - Simon Quillaud
 - Loic Delas
-
+- Dominique Lebrun
