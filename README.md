@@ -21,3 +21,4 @@ Liste des contributeurs:
 - Guillaume "Barlu" Berube
 - Janier Morales Morejon
 - Joel Dumoulin
+- Loic Delas
