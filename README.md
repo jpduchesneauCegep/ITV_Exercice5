@@ -28,4 +28,5 @@ Liste des contributeurs:
 - Loic Delas
 - Dominique Lebrun
 - Philippe Plamondon
+- Michel Couture
 
