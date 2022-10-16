@@ -29,4 +29,6 @@ Liste des contributeurs:
 - Dominique Lebrun
 - Philippe Plamondon
 - Michel Couture
+- Alexander Slaght
+
 
