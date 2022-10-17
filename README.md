@@ -30,5 +30,5 @@ Liste des contributeurs:
 - Philippe Plamondon
 - Michel Couture
 - Alexander Slaght
-
+- Binh Nguyen
 
