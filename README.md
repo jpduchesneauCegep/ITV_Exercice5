@@ -31,4 +31,5 @@ Liste des contributeurs:
 - Michel Couture
 - Alexander Slaght
 - Binh Nguyen
+- Jean-Philippe Delisle
 
